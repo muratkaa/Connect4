@@ -1,0 +1,47 @@
+
+PLAYER 1 -> 12
+
+PLAYER 2 -> 13
+
+PLAYER 1 -> 14
+
+PLAYER 2 -> 15
+
+PLAYER 1 -> 16
+
+PLAYER 2 -> 17
+
+PLAYER 1 -> 18
+
+PLAYER 2 -> 22
+
+PLAYER 1 -> 23
+
+PLAYER 2 -> 24
+
+PLAYER 1 -> 25
+
+PLAYER 2 -> 34
+
+PLAYER 1 -> 44
+
+PLAYER 2 -> 54
+
+PLAYER 1 -> 64
+
+PLAYER 2 -> 74
+
+PLAYER 1 -> 84
+
+PLAYER 2 -> 94
+
+Turn=18
+PLAYER 1 -> 32
+
+PLAYER 2 -> 11
+
+PLAYER 1 -> 21
+
+PLAYER 2 -> 31
+
+PLAYER 1 -> 41
